@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "alexeyraspopov",
+  "repo": "picocolors",
+  "versions": [
+    {
+      "commit": "7249f8c5d4825550f70bc1ea98652639933d3bbd",
+      "parsed_at": "2026-09-28T08:04:19.089456+00:00",
+      "tag": "v1.1.1",
+      "filetree": "filetree/7249f8c5d4825550f70bc1ea98652639933d3bbd.nq.gz",
+      "blobs": [
+        "blob/80e207d57934c2d752f40206e6cdf98401aa8383.nq.gz",
+        "blob/19bfc71365ef998a07af12eee21549620b27c6a6.nq.gz",
+        "blob/54e3aa3b2f82966cc83479883b9979aa794ce59a.nq.gz",
+        "blob/9ca90e86442bffa7467ca141dedef5e408b55d89.nq.gz",
+        "blob/cd1aec46792f4bdb4fd06aeabf1fd93c8b3f11ea.nq.gz",
+        "blob/140f7177a376d9e30328006c7826af91857df933.nq.gz",
+        "blob/ee119bc71ccc70dc7cf7d2e02d0816f18038179b.nq.gz",
+        "blob/e32df8548820fdf608b39331be07a8519a1b6c46.nq.gz",
+        "blob/9dcf637cda1ae2b7ed3281c42463da234ae91398.nq.gz",
+        "blob/46c9b95d4b83c8eba2d9ed406f49930a9fdaf3e3.nq.gz",
+        "blob/94e146a82221e527be835656549ddfb1b41fd0c9.nq.gz",
+        "blob/c96d5962fd90fbeee64da7f69e9ec8bdd226988b.nq.gz",
+        "blob/6179ed893acce5e4ebc9b4793c2f34a4cea92790.nq.gz",
+        "blob/58a1488954dd1aedd9806f52399dcec55aff17cd.nq.gz",
+        "blob/3c3629e647f5ddf82548912e337bea9826b434af.nq.gz",
+        "blob/1f10a24ad46853b6314b87a00a92e697b1010133.nq.gz",
+        "blob/37ad6ac0fff8c0152250958b0e8960a41b4195c2.nq.gz",
+        "blob/4bc5da39a9dc7abc4727fc0bac25e0dcdc4b365e.nq.gz",
+        "blob/537cdb9c7d97649af1d016714e83ae8af9a686d9.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
