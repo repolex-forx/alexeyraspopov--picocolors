@@ -142,7 +142,9 @@
           "githubUrl": "git+https://github.com/sindresorhus/yoctocolors.git",
           "source": "build_file:package.json"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/7249f8c5d4825550f70bc1ea98652639933d3bbd/chunk-001.nq.gz",
+      "dep": "dep/7249f8c5d4825550f70bc1ea98652639933d3bbd.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
